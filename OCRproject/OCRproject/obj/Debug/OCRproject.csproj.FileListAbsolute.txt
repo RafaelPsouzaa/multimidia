@@ -1,0 +1,13 @@
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\x86\liblept1753.dll
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\x86\libtesseract3052.dll
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\x64\liblept1753.dll
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\x64\libtesseract3052.dll
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\OCRproject.exe.config
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\OCRproject.exe
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\OCRproject.pdb
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\bin\Debug\Tesseract.dll
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\obj\Debug\OCRproject.csprojAssemblyReference.cache
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\obj\Debug\OCRproject.csproj.CoreCompileInputs.cache
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\obj\Debug\OCRproject.csproj.CopyComplete
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\obj\Debug\OCRproject.exe
+C:\Users\marksman3\source\repos\OCRproject\OCRproject\obj\Debug\OCRproject.pdb
